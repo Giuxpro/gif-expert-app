@@ -9,4 +9,4 @@ Este el el repositorio de GifExperApp y trata de que a través de un busador pue
 https://gif-expert-react-giux-app.netlify.app/
 
 ### Github Pages:
-
+https://giuxpro.github.io/gif-expert-app/
